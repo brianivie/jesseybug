@@ -33,7 +33,7 @@ Time marched on and new options became available.  Github pages now offers hosti
 
 Collecting, organizing and posting all of the resources we had created and collected over the years to this website was a project that got put on the back burner until recently when I experienced some heath issues.  
 
-Now while I wait to heal I find myself with the time to continue this project.
+Now, while I wait to heal, I find myself with the time to continue this project.
 
 
 

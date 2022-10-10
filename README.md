@@ -7,7 +7,7 @@ As we brainstormed of what we might do for her campaign, we thought of buttons, 
 We ordered the parts, put together a 20 page booklet that explained the basics of electronics and had 10 experiments kids could do with the parts in the kits.  We also put together a website here:
 [4H ScienceBug Website](https://sites.google.com/site/4hsciencebug/)
 
-We called these simple kits "Science Bugs."  We wanted kids to become interested in learning about electronics by doing hands-on experiments.  Each experiment has questions to help you think about electronics and learn different principles and properties.
+We called these simple kits "Science Bugs."  We wanted kids to become to "catch the bug" or in other words become interested in learning about electronics by doing hands-on experiments.  Each experiment has questions to help you think about electronics and learn different principles and properties.
 
 The ScienceBug kits were a big hit and we've passed out thousands of these kits.
 

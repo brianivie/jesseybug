@@ -1,37 +1,40 @@
-## JesseyBug
+Hello, and welcome to JesseyBug.com.
 
-You can use the [editor on GitHub](https://github.com/brianivie/jesseybug/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Several years ago my daughter Jessica was campaigning to be the the state vice president for 4H in science and technology for Utah.  The rules of the election set a maximum amount that could be spent on the campaign.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As we brainstormed of what we might do for her campaign, we thought of buttons, stickers or posters, but we realized that it would be possible instead to put together a very simple kit that let kids do 10 science experiments.  If we ordered in bulk from China we could get these simple kits to cost less than it would to make buttons to pass out.  
 
-### Markdown
+We ordered the parts, put together a 20 page booklet that explained the basics of electronics and had 10 experiments kids could do with the parts in the kits.  We also put together a website here:
+https://sites.google.com/site/4hsciencebug/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We called these simple kits "Science Bugs."  We wanted kids to become interested in learning about electronics by doing hands-on experiments.  Each experiment has questions to help you think about electronics and learn different principles and properties.
 
-```markdown
-Syntax highlighted code block
+The ScienceBug kits were a big hit and we've passed out thousands of these kits.
 
-# Header 1
-## Header 2
-### Header 3
+We also had a community robotics and electronics club.  This club did more in depth experiments.  For this club we put together much more involved "JesseyBug" kits.  
 
-- Bulleted
-- List
+These kits have gone through many revisions.  They started with just some basic parts such as resistors, capacitors and transistors, and now have grown to include IC chips, an Arduino, a LCD screen, a speaker and many other components.
 
-1. Numbered
-2. List
+When I was a kid I remember doing experiments on a breadboard from RadioShack and following the circuit diagrams in a book from RadioShack by Forrest M. Mims.  There is a new version of this book on Amazon here: https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282/ref=sr_1_1?keywords=9780945053286&linkCode=qs&qid=1665437343&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sr=1-1&asin=0945053282&revisionId=&format=4&depth=1
 
-**Bold** and _Italic_ and `Code` text
+We've done a lot of hands-on activities around electronics and sponsored a lot of community clubs.  As our experiences increased, the number and quantity of electronic parts that we were ordering did as well.  
 
-[Link](url) and ![Image](src)
-```
+At the pinnacle of craziness we ran a kickstarter https://www.kickstarter.com/projects/936238887/the-jesseybug-electronics-inventors-kits and put together hundreds of kits.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What used to be fun in small quantities, however, soon had us running.  Putting the kits together required many hours of carefully sorting and counting out parts.  When you do this a couple hundred times it soon loses all feelings of fun.
 
-### Jekyll Themes
+What little profit we made from the JesseyBug kits was used to purchase parts for more kits that were then donated to 4H.  These kits can be checked out for free from the Salt Lake County 4H office.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianivie/jesseybug/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As part of the JesseyBug Kickstarter campaign we committed to creating curriculum.  We had put together a lot of Powerpoints and worksheets that we used for our classes, and the idea was to put these on a website and share them with educators, to save them the time of collecting and producing resources like this on their own.
 
-### Support or Contact
+We set up the JesseyBug.com website, and spent a lot of time putting together a forum, a bulletin board, and other features.  Over time the cost for running the site was too much however, and so when it came time for renewal on the hosting provider, we let it lapse.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Time marched on and new options became available.  Github pages now offers hosting of pages for free and so the decision was made to move JesseyBug to them. 
+
+Collecting, organizing and posting all of the resources we had created and collected over the years to this website was a project that got put on the back burner until recently when I experienced some heath issues.  
+
+Now while I wait to heal I find myself with the time to continue this project.
+
+
+
+

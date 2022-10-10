@@ -2,10 +2,10 @@ Hello, and welcome to JesseyBug.com.
 
 Several years ago my daughter Jessica was campaigning to be the the state vice president for 4H in science and technology for Utah.  The rules of the election set a maximum amount that could be spent on the campaign.
 
-As we brainstormed of what we might do for her campaign, we thought of buttons, stickers or posters, but we realized that it would be possible instead to put together a very simple kit that let kids do 10 science experiments.  If we ordered in bulk from China we could get these simple kits to cost less than it would to make buttons to pass out.  
+As we brainstormed of what we might do for her campaign, we thought of buttons, stickers or posters, but we realized that it would instead be possible to put together an actual electronics kit that would let kids do some hands-on experiments with electronics.  Getting the price down to under 25 cents a kit required ordering in bulk from China for the parts, but it made these electronics kits cheaper than the same cost of simply making campaign buttons or buying some treat to pass out.  
 
 We ordered the parts, put together a 20 page booklet that explained the basics of electronics and had 10 experiments kids could do with the parts in the kits.  We also put together a website here:
-https://sites.google.com/site/4hsciencebug/
+[4H ScienceBug Website](https://sites.google.com/site/4hsciencebug/)
 
 We called these simple kits "Science Bugs."  We wanted kids to become interested in learning about electronics by doing hands-on experiments.  Each experiment has questions to help you think about electronics and learn different principles and properties.
 
@@ -15,11 +15,11 @@ We also had a community robotics and electronics club.  This club did more in de
 
 These kits have gone through many revisions.  They started with just some basic parts such as resistors, capacitors and transistors, and now have grown to include IC chips, an Arduino, a LCD screen, a speaker and many other components.
 
-When I was a kid I remember doing experiments on a breadboard from RadioShack and following the circuit diagrams in a book from RadioShack by Forrest M. Mims.  There is a new version of this book on Amazon here: https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282/ref=sr_1_1?keywords=9780945053286&linkCode=qs&qid=1665437343&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sr=1-1&asin=0945053282&revisionId=&format=4&depth=1
+When I was a kid I remember doing experiments on a breadboard from RadioShack and following the circuit diagrams in a book from RadioShack by Forrest M. Mims.  There is a new version of this book on Amazon here: [Getting Started in Electronics](https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282/ref=sr_1_1?keywords=9780945053286&linkCode=qs&qid=1665437343&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sr=1-1&asin=0945053282&revisionId=&format=4&depth=1)
 
 We've done a lot of hands-on activities around electronics and sponsored a lot of community clubs.  As our experiences increased, the number and quantity of electronic parts that we were ordering did as well.  
 
-At the pinnacle of craziness we ran a kickstarter https://www.kickstarter.com/projects/936238887/the-jesseybug-electronics-inventors-kits and put together hundreds of kits.  
+At the pinnacle of craziness we ran a kickstarter [JesseyBug Kickstarter](https://www.kickstarter.com/projects/936238887/the-jesseybug-electronics-inventors-kits) and put together hundreds of kits.  
 
 What used to be fun in small quantities, however, soon had us running.  Putting the kits together required many hours of carefully sorting and counting out parts.  When you do this a couple hundred times it soon loses all feelings of fun.
 

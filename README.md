@@ -38,3 +38,11 @@ Now, while I wait to heal, I find myself with the time to continue this project.
 
 
 
+https://docs.google.com/presentation/d/182vyOWLqpbCAgOD3HlWswn5wJnIjkD9D0M_o3hutBQw/edit#slide=id.p2
+https://docs.google.com/presentation/d/1Yy8jLGY-nIkbP3uzFn5HtjcYeew0bnvSRt8jsvRM0Js/edit#slide=id.p1
+https://drive.google.com/drive/folders/19pR3uC3TrohN7pplcOezFkSqOKh_eM8i
+
+
+https://drive.google.com/drive/folders/19pR3uC3TrohN7pplcOezFkSqOKh_eM8i
+https://drive.google.com/drive/folders/1UNDhJL7Sdze4mnmiSIcpA03Mfe7xJdAu
+

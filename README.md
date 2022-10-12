@@ -1,4 +1,4 @@
-[Visual Code for Arduino](https://www.jesseybug.com/blockly-arduino/index.html)
+[Visual Code for Arduino](https://jesseybug.com/blockly-arduino/index.html)
 
 Hello, and welcome to JesseyBug.com.
 

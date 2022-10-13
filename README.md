@@ -1,4 +1,5 @@
 [Visual Code for Arduino](https://jesseybug.com/blockly-arduino/index.html)
+[Beginning Electronics](https://jesseybug.com/curriculum/stem-olympiad/2022%20-%20Beginning%20Electronics/2022BeginningElectronics.html)
 
 Hello, and welcome to JesseyBug.com.
 
